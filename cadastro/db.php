@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $db = 'escola';
-$user = 'socria';
+$user = 'joão carlos';
 $pass = '12345';
 $port = '3307';
 
